@@ -1,2 +1,2 @@
-# MackSkypeLog
-It's a skype log of everything I've ever said to my friend, and everything he's said back.
+# HEY THERE
+It's nothing, really.  Only about 26,000 lines.
