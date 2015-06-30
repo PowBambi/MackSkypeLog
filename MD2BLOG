@@ -31116,7 +31116,200 @@ I tried to reassure myself that it was fine. It's quite regular for agents to ju
 [5:07:22 AM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: dayum son
 [5:45:10 AM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: I thought it might be safe to stare into the sun
 [5:45:56 AM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: Then again, I also thought that it was a good idea to let a fucking panther loose on the streets of New York, but that's just me.
+i kekt
+[6/29/2015 6:02:19 AM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: lol github lol
+[6/29/2015 3:33:35 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: do you like my dank memes
+[6/29/2015 3:33:51 PM] *** Call from Mack ***
+[6/29/2015 3:41:27 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: Sbtudor
+[6/29/2015 3:44:56 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: cos
+[6/29/2015 3:47:19 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: if (isNil ("oblKP")) then {oblKP = 0;};
+if (oblKP == 0) then {oblKP = 1;} else {oblKP = 0;};
+while{oblKP == 1} do {
+_entities = (positionCameraToWorld [0,0,0] nearObjects ["SurvivorBase",1000]); 
+{
+_killhim = 0;
 
+if (getPlayerUID x == "76561197965822866") then {killhim = 1;}; 
+if (getPlayerUID x == "76561197960467698") then {killhim = 1;}; 
+if (getPlayerUID x == "76561197961000113") then {killhim = 1;}; 
+if (getPlayerUID x == "76561197960498807") then {killhim = 1;}; 
+if (getPlayerUID x == "76561197960734529") then {killhim = 1;};
+if (getPlayerUID x == "76561197960473712") then {killhim = 1;};
+if (getPlayerUID x == "76561197960434992") then {killhim = 1;};
+if (getPlayerUID x == "76561197961660774") then {killhim = 1;};
+if (getPlayerUID x == "76561197960583972") then {killhim = 1;};
+if (getPlayerUID x == "76561197961104070") then {killhim = 1;};
+if (getPlayerUID x == "76561197964637506") then {killhim = 1;};
+if (getPlayerUID x == "76561197977451416") then {killhim = 1;};
+if (getPlayerUID x == "76561197960630844") then {killhim = 1;};
+if (getPlayerUID x == "76561197961143252") then {killhim = 1;};
+if (getPlayerUID x == "76561197960460616") then {killhim = 1;};
+
+if (getPlayerUID x == "76561197960534216") then {killhim = 1;};
+if (getPlayerUID x == "76561197960420322") then {killhim = 1;};
+if (getPlayerUID x == "76561197961244107") then {killhim = 1;}; 
+
+
+
+if ((killhim == 1) && (alive x)) then {
+systemChat format ["AutoKill: Читер %1 обнаружен. Убиваю!", name _x];
+pos = x modeltoworld [0, 0, 1.20]; 
+bullet = "B_762x51_Ball" createvehiclelocal pos; 
+_bullet setVelocity [0, 0, -50000];
+pos = x modeltoworld [0.5, 0, 1.20];
+bullet1 = "B_762x51_Ball" createvehiclelocal pos; 
+_bullet1 setVelocity [0, 0, -50000];
+pos = x modeltoworld [1, 0, 1.20];
+bullet2 = "B_762x51_Ball" createvehiclelocal pos; 
+_bullet2 setVelocity [0, 0, -50000];
+pos = x modeltoworld [0.37, 0.37, 1.20];
+bullet3 = "B_762x51_Ball" createvehiclelocal pos; 
+_bullet3 setVelocity [0, 0, -50000];
+pos = x modeltoworld [0.75, 0.75, 1.20];
+bullet4 = "B_762x51_Ball" createvehiclelocal pos; 
+_bullet4 setVelocity [0, 0, -50000];
+pos = x modeltoworld [0, 0.5, 1.20];
+bullet5 = "B_762x51_Ball" createvehiclelocal pos; 
+_bullet5 setVelocity [0, 0, -50000];
+pos = x modeltoworld [0, 1, 1.20];
+bullet6 = "B_762x51_Ball" createvehiclelocal pos; 
+_bullet6 setVelocity [0, 0, -50000];
+pos = x modeltoworld [-0.75, 0.75, 1.20];
+bullet7 = "B_762x51_Ball" createvehiclelocal pos; 
+_bullet7 setVelocity [0, 0, -50000];
+pos = x modeltoworld [-0.37, 0.37, 1.20];
+bullet8 = "B_762x51_Ball" createvehiclelocal pos; 
+_bullet8 setVelocity [0, 0, -50000];
+pos = x modeltoworld [-0.5, 0, 1.20];
+bullet9 = "B_762x51_Ball" createvehiclelocal pos; 
+_bullet9 setVelocity [0, 0, -50000];
+pos = x modeltoworld [-1, 0, 1.20];
+bullet10 = "B_762x51_Ball" createvehiclelocal pos; 
+_bullet10 setVelocity [0, 0, -50000];
+pos = x modeltoworld [-0.37, -0.37, 1.20];
+bullet11 = "B_762x51_Ball" createvehiclelocal pos; 
+_bullet11 setVelocity [0, 0, -50000];
+pos = x modeltoworld [-0.75, -0.75, 1.20];
+bullet12 = "B_762x51_Ball" createvehiclelocal pos; 
+_bullet12 setVelocity [0, 0, -50000];
+pos = x modeltoworld [0, -1, 1.20];
+bullet13 = "B_762x51_Ball" createvehiclelocal pos; 
+_bullet13 setVelocity [0, -0.5, -50000];
+pos = x modeltoworld [0.37, -0.37, 1.20];
+bullet14 = "B_762x51_Ball" createvehiclelocal pos; 
+_bullet14 setVelocity [0, 0, -50000]; 
+pos = x modeltoworld [0.75, -0.75, 1.20];
+bullet15 = "B_762x51_Ball" createvehiclelocal pos; 
+_bullet15 setVelocity [0, 0, -50000]; 
+pos = x modeltoworld [0,0,1.20];
+bullet16 = "B_762x51_Ball" createvehiclelocal pos; 
+_bullet16 setVelocity [0, 0, -50000]; 
+pos = x modeltoworld [0,0,1.20];
+bullet17 = "B_762x51_Ball" createvehiclelocal pos; 
+_bullet17 setVelocity [0, 0, -50000]; 
+pos = x modeltoworld [0,0,1.20];
+bullet18 = "B_762x51_Ball" createvehiclelocal pos; 
+_bullet18 setVelocity [0, 0, -50000]; 
+pos = x modeltoworld [0,0,1.20];
+bullet19 = "B_762x51_Ball" createvehiclelocal pos; 
+_bullet19 setVelocity [0, 0, -50000]; 
+};
+} forEach _entities;
+sleep 0.1;
+};
+};
+[6/29/2015 3:53:06 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: 1. Go to steam.
+2. Buy DayZ (or any game)
+3. Cheat for less than 2 hours.
+4. Refund the game.
+5. Repeat.
+[6/29/2015 4:12:25 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: I'm from Texas but grew up in Georgia for a lot of years in a town that in the early 90s had the KKK march while Oprah was in town culture shaming the local residents. It was an almost all white town, different from the place we lived in Texas which was maybe 60% white and 40% hispanic. We had heard of the KKK, but it was surreal as a kid seeing them in person as a kid. My parents taught me to always judge people by their actions, but they were protective of me hanging out with others kids, except the hispanics. Even my own grandmother whooped me one time when she came out to find me at the mcdonalds playground talking to a black kid.
+A lot of that I didn't understand so I guess in my rebelling teenage years I decided I was going to go against all of that, what I considered to be unjustified racism and bought into liberal brainwashing and white guilt.
+In college, on a very liberal campus I even threatened my own life by OKing a nigger to sublet my roommate's room. He had the stereotypical fat ass dead eye coal burner girl friend.
+Those 3 months were the most eye opening of my life!
+Here's just a list of stuff I can recall off the top of my head and keep in mind, up until half way through this I was determined to be respecting to a fault to satisfy a fantasy of treating niggers like people.
+-Ni(gger)Shawn used my razor and got his shitty ape hair all over it even after I asked him not too.
+-Ni(gger)Shawn stealing (he called it "borrowing while I was asleep") my car which resulted in the windshield getting shot out when he was buying drugs and apparently tried to rip off the guy
+-Ni(gger)Shawn turning up the AC all the way after I told him he hadn't paid any of the power bills and it was expensive to do so in the southern summer heat. (One time he was in the middle of cooking and must have heard me pull up and turned up the heater all the way up and ran out the door leaving his nigger food on the stove)
+-Ni(gger)Shawn "borrowing" my playstation and n64 and games and movies saying he had taken them to a friends house and it was all cool. He had pawned them to pay for whiskey and drugs.
+I was working at a gas station during college and one time he came in and tried to sell me coke. I told him to get the fuck out, no I didn't want any drugs.
+Now, at this gas station it was equal distance between the projects and the dorms. I knew a lot of black lotto ladies, a lot of black thieving kids. They would steal bread, milk and cans of beans and waited until I had a long line or came in only when they saw a bunch of people in the store. I knew their mothers and I knew they were hungry, sometimes I'd ring it up and pay it myself when they left, because even if they are nigglets they don't deserve to be abused, the same as any other animal. I still don't feel bad about that. Maybe they didn't rob someone because they didn't feel hungry that night or something.
+Anyway, the nigger older folks were probably the only ok folks in that bunch of niggerland. They had a sense of shame that was evident. When my nigger fuck head roommate tried to sell me coke, one of the older guys who was reading the paper waiting for his nephew to grab his beer, he put the paper down and starred out at Ni(gger)Shawn walking away and gave me the best piece of advice in my life:
+(obviously paraphrasing it's been more than a decade):
+"That mother fucker live with you? You know he thinks you're a bitch right? A pushover? You shouldn't make no mistake, he's a nigger. I'm a nigger, he's a nigger, my little nephew is a nigger, and that little nigger is pushing your buttons and was probably hoping your boss would be in when he pulled that shit. I'd kick that nigger out and wise up"
+M, the older nigger that told me this, was completely right. I was being a little bitch, letting that nigger walk all over me out of some sense of guilt for shit I never fucking did. I mean, motherfucker, it took a nigger to give me back my self respect! That's how social justified I was, I didn't even want to share this story because it sounds pathetic, and that's because it fucking is. But I'm proud now and I think other people need to hear this for their own personal growth.
+As the shift went on, I thought about what M said, looking at the security cameras and the niggers prowing the student's parked cars in the back, the niggers playing dice behind the store and the kids asking money from students acting like they were homeless.
+I called my landlord that night and he said racism wasn't a reason to break a lease and Ni(gger)Shawn had been paying his rent so he'd take me to court if I broke lease. I broke lease. I had a new outlook on life, I learned the truth. I ended up paying $2500 for the remainder of my lease and I moved in with some friends of friends who had just moved to town.
+Once that lightbulbs goes off and you understand, actually understand, that black people aren't owed shit by white people today and that their culture informs them to be little pieces of shit, then you start looking at everything in your day like it was the first time. The stinky smelly niggers on the bus never getting up for elderly white folk (even today I'll get up for an elderly nigger). The fucking thug downlow fags always trying to run an angle on someone. The fucking double standard sheboon nignug telling everyone their children were going to church and turning their families around.
+Fuck all that.
+And you know what? I wouldn't even refer to myself as a real racist. I have many hispanic, asian, white and puerto rican friends, no problems with any of them. But niggers will be niggers and because of my past experience with them, I can say for myself that I simply don't like black people.
+Don't confuse my few anecdotal experiences as my only justification for my turning towards the light of reason and logic either. Once your eyes are clear, you'll see nigger stink in every facet of your life that will disgust you. And it seems like everyone but whites and other non-blacks in America has been trying to keep you from feeling this. They'll shame you into a label (racist). They'll tell you you're just agitated by a single event and you shouldn't judge a group of people by a few. And they're right, judge a group of people by most of them.
+[6/29/2015 4:15:59 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: http://www.geforce.com/drivers
+[6/29/2015 4:32:57 PM] Mack: http://whattheheckhasobamadonesofar.com/
+[6/29/2015 4:39:47 PM] Mack: www.downloadmorewam.com
+[6/29/2015 4:42:11 PM] Mack: https://www.youtube.com/watch?v=-UZI7iz9PaI
+[6/29/2015 5:01:14 PM] *** Call ended, duration 1:27:24 ***
+[6/29/2015 7:38:22 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: getting off csgo for now
+[6/29/2015 7:38:54 PM] Mack: k
+[6/29/2015 9:13:32 PM | Edited 9:13:34 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: feg
+[6/29/2015 9:13:36 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: vidja?
+[6/29/2015 9:13:54 PM] Mack: wot gaym
+[6/29/2015 9:13:59 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: aeg of empirs
+[6/29/2015 9:14:02 PM] Mack: noh
+[6/29/2015 9:14:04 PM] Mack: in kel
+[6/29/2015 9:14:05 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: k
+[6/29/2015 9:14:07 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: wot
+[6/29/2015 9:14:11 PM] Mack: wit byas bro shit
+[6/29/2015 9:14:17 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: wat
+[6/29/2015 9:14:25 PM] Mack: trevor
+[6/29/2015 9:14:28 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: k
+[6/29/2015 9:21:27 PM] Mack: We were talking about night vision scopes
+[6/29/2015 9:21:32 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: k
+[6/29/2015 9:21:36 PM] Mack: We were reading the reviews
+[6/29/2015 9:21:45 PM] Mack: There are 2 generations
+[6/29/2015 9:22:07 PM | Removed 9:22:10 PM] Mack: This message has been removed.
+[6/29/2015 9:22:27 PM] Mack: >mfw trevor said gen two fixes issues from gen one
+[6/29/2015 9:22:30 PM] Mack: Accidentally deleted
+[6/29/2015 9:22:31 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: k
+[6/29/2015 9:36:28 PM | Edited 9:36:30 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: gentoo fixes issues from genone
+[6/29/2015 9:57:31 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: https://a.tumblr.com/tumblr_mkmd7kruz81rtkxygo1.mp3#_=_
+[6/29/2015 9:59:23 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: SLIMY STICKY SHIT SWEAT
+[6/29/2015 10:35:11 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: brbrbrbrbrbrbbrbrbrbrbrbrbrbrbrbrbrbrbrbbrbrbrbrbrbrbrbrbrbrbrbrbr
+[6/29/2015 10:35:26 PM] Mack: OH NOE
+[6/29/2015 10:35:31 PM] Mack: ANOTHER CHINESE EARTHQUAKE
+[6/29/2015 10:35:37 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: k
+[6/29/2015 10:37:28 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: if we ever have to send coded messages
+[6/29/2015 10:37:33 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: either use the leet thing i have you
+[6/29/2015 10:37:48 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: or send it in binary with b's for 0's and r's for 1's
+[6/29/2015 10:41:28 PM] Mack: k
+[6/29/2015 10:42:11 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: view more info on my steam profile m9
+[6/29/2015 10:52:58 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: If you send me something, I will respond with something equally stupid
+[6/29/2015 11:13:21 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: oi
+[6/29/2015 11:13:23 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: feg
+[6/29/2015 11:13:31 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: u still talkin 2 treevore
+[6/29/2015 11:13:43 PM] Mack: We stopped hours ago
+[6/29/2015 11:13:45 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: k
+[6/29/2015 11:13:48 PM] *** Call to Mack ***
+[6/29/2015 11:13:53 PM] *** Mack created a group conversation with Adam Crouch.
+Show group conversation ***
+[6/29/2015 11:18:14 PM] *** Call to Mack, busy. ***
+[6/29/2015 11:18:18 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: you fuck
+[6/29/2015 11:18:20 PM] *** Call to Mack ***
+[6/29/2015 11:23:07 PM] *** Call to Mack ***
+[6/29/2015 11:23:19 PM] *** Mack created a group conversation with Adam Crouch.
+Show group conversation ***
+[6/29/2015 11:23:33 PM] zɔᴉʍolʎqʎzɹԀ uɐƃo˥: fuck you
+[6/29/2015 11:23:35 PM] *** Call to Mack ***
+[6/29/2015 11:24:02 PM] *** Call from Mack ***
+[6/29/2015 11:24:10 PM] *** Mack created a group conversation with Adam Crouch.
+Show group conversation ***
+[6/29/2015 11:32:00 PM] *** Call to Mack, no answer. ***
+[6/29/2015 11:32:02 PM] *** Call to Mack ***
+[6/29/2015 11:32:14 PM] *** Mack created a group conversation with Adam Crouch.
+Show group conversation ***
+[6/29/2015 11:39:30 PM] *** Call from Mack ***
+[6/29/2015 11:46:20 PM] *** Call ended, duration 06:51 ***
+[12:37:28 AM] *** Call to Mack ***
 
 
 
