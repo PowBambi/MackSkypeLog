@@ -1,7 +1,7 @@
 # HEY THERE
-It's nothing, really.  Only 39,789 lines. 
+It's nothing, really.  Only 40,845 lines. 
 
-In the code world, that would be the code behind something like 2001 Microsoft Word. But in my world, that's 421 days worth of messages.
+In the code world, that would be the code behind something like 2002 Microsoft Word. But in my world, that's 421 days worth of messages.
 
 
 Hell, why do I even bother writing this? It's not like anyone is going to read this. 
