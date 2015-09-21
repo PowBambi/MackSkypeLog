@@ -47993,6 +47993,286 @@ Party feature is available on PlayStation®4 and Xbox One platforms
 [6:38:09 PM] Logan: I wondered why people were ranting and raving about MGSV:TPP being an unfinished game
 [6:38:38 PM] Logan: It was not until I had gotten halfway through the game that I realized.
 [6:51:05 PM | Edited 6:51:05 PM] Logan: THE OL SPICY SNAKE
+[9/19/2015 9:04:13 PM] Logan: Vote Caitlyn Jenner as Glamour's Sexiest Man 2015
+https://www.demographix.com/surveys/QM2V-44C7/AR7TWR4L/
+SCRIPT TO MAKE MULTIPLE VOTES
+Download iMacros for your browser, put the following code in and put it on repeat for 9001 times.
+____________
+SET !ERRORIGNORE YES
+TAB OPEN 
+tab t=2
+tab closeallothers
+ONDIALOG POS=1 BUTTON=YES
+clear
+URL GOTO=https://www.demographix.com/surveys/QM2V-44C7/AR7TWR4L/
+wait seconds=1
+TAG POS=1 TYPE=TEXTAREA FORM=ID:survey ATTR=ID:q_* CONTENT=Caitlyn<SP>Jenner
+wait seconds=1
+TAG POS=1 TYPE=BUTTON FORM=ID:survey ATTR=ID:bSubmit
+'wait seconds=50 (optional for tor switchers)
+____________
+Works best with TOR+Switcher+iMacros
+[9/19/2015 9:51:28 PM] *** Call to Mack ***
+[9/19/2015 9:51:28 PM] *** Call ended ***
+[9/19/2015 9:52:00 PM] Logan: fucking white people
+[9/19/2015 9:54:40 PM] Logan: https://www.youtube.com/watch?v=WVfHMYaX6vs
+[9/19/2015 10:02:47 PM] Logan: 
+Ĭ̺͈̥͖̪̙̻͖͙͖͓̇ͭ̋͒͐̓̅̂͊ͤͮ̀́ͅͅ'̍ͩͧͮ̋̉̆­­̸͚̭̖͔̝̝̱̣͔͖̩̘̟̺ͫͮ̎̏̿̚M͌͛̍̀̔ͤͨ͛ͯ̏̃ͫ̿̂́̆ͤ­̔­̶̡̡͉̫͍̺́͞ ̬͖͚̹̩̼͈͆̂͋̔́̏̇ͥͩͣͩͫͫͫ̈̉͋ͪ͜͡T͋̏ͦ̈̽̿̿͐͊̾̑͐­­̡̨̛̙͓͇̤̜̮̝̰͙̟̼̞̫̟̤̻̬̳̅̀ͪ̔H̍ͭ͗͐̏͊͛̄̏̈͗̍͋­ͧ­̴̛͍̝̗̙͍̩̼̳̝͊̏͋ͪ̓̕͟͜Ë̴̫͖̟̮͕̩͍͓́̆̔ͯ̓̑́̀ ̰͈̲͇̗͇̟͎̥̱̻͇͇̔̑̈ͫ͢ͅͅͅͅY̓̑͗̌̃͋ͤ͑̓ͧ̎̒҉͔͔̀͝­­͕̫̼͎͙̻̘Ḛ̰̪̣̬̜̹͈̤͉̲̖͓̬̩̳͛̽ͧ̐͌̄̑́̍̃ͨ́̚̕͞­̪­Ä̡̀̏͆́҉̧̞̫̭̜̼S̺̞̬̯͚̬͍̊̌̇̆ͣͬ͋ͭ̽ͭ̄ͤ̆ͫ́̀­̣̭­͈͎̖͎͉̟̠̰T̲̪̫̭͎̻̫̯͍̩̰̮̼̽ͧ̑̀ͤͨͦͯͮ͆ͥ̓̆̇͢­̲̘̳­̲̯̺ ̐͋͑̈́̍̀͒̌̄̿̆͏͖͕̞̤͎͙̟̀́͢͢Ǫ̈͑͛ͩ͒ͪ̄̎̐̋ͧ̈ͮ̍͜­­̧̰͉͙̥̹͈͞F̶͈͉͎̘̖̥͖̻͉̫̟͍̖̿̐ͨ͂̾ͩ͆͘ ̷̧̒̔͆ͣ͐̅̂̈́̚̚͢͏̣̥͕̝͈Y͛͂̏ͭ̍̐ͩ̃͗̃̌̈̏ͫ͌ͯ̎̍͝­­̴͏̸̟͕̥̱O̱͉̖̺̲͔ͫͯ̓̐̔̏͐͛̉̎ͧ̃̌́͝U̇̀ͪͣ̈́ͧ̄̑̅­ͮ­̷͚̙̰̤̳ͧ̈́͑̕͟R̄̆̑ͤ̇̆҉̸̶̢̛̘̠͙͈͖̞͈̲͎͇̦̠̯ ̊̓́̊ͧͮ̈͗̊̄̕͏͈͇͕̩̗͉̬̳̀́W̶̡̡̐̔͋̑ͨͦ̿ͯ͆͂̉̋̌͠­­͔͈͉ͅƠ̸̳̜͓̩͍̼̜̱͇͓̪̘̭͖̤͖̪ͨ̓̓͆ͫͬ͋̍̓̆̏ͤ̅͑̚­͎­͚R̍̓ͧ͂̓ͭͫ̿̋͋̾҉͚̺̬̝̣̺͔̭͓̲͉́ͅṘ̵̺̺̗̍ͮ̃͐͢­͙͙­̜̲̱͙͇̝̥̱̘͓̥̻̝ͅI̔͐̿ͥ̒̊͏̴̢̟̘̪̫̬̠̣̪̩̱̠̀ͅ­͇͚͈­̜̜̯̙É̵̩͖̻̘͉̣͉͔͔͖̮̮̖̦̰̃ͨͫͩ̃̓́͞͞͞Sͨ̈́ͯ­ͬ͛ͫ̐­̧̘̹̗̖̭̟̼̲̟͍̥̻̹̖͈̤͍͐ͨ̅ͤ̔͛͆́͡
+[9/19/2015 11:54:10 PM] Logan: >be me
+[9/19/2015 11:54:17 PM] Logan: >Playing PayDay 2
+[9/19/2015 11:54:20 PM] Logan: >Join game
+[9/19/2015 11:54:25 PM] Logan: >one guy is 25-100
+[9/19/2015 11:54:29 PM] Logan: >1000 hours
+[9/19/2015 11:54:34 PM] Logan: >holy fuck
+[9/19/2015 11:54:39 PM] Logan: >others are low level plebs
+[9/19/2015 11:54:46 PM] Logan: >2-75 and 1-33
+[9/19/2015 11:54:54 PM | Edited 11:54:57 PM] Logan: >I'm 3-100
+[9/19/2015 11:55:05 PM] Logan: >we're stealthing gold
+[9/19/2015 11:55:08 PM] Logan: >i join
+[9/19/2015 11:55:12 PM] Logan: >they're in a skype call
+[9/19/2015 11:55:16 PM] Logan: >they use in game mics anyway
+[9/19/2015 11:55:22 PM] Logan: >one is fucking super serious
+[9/19/2015 11:55:29 PM] Logan: >I turn on my fast interact cheat
+[9/19/2015 11:55:33 PM] Logan: >he goes fucking ballistic
+[9/19/2015 11:55:37 PM] Logan: >kicks me
+[9/19/2015 11:55:46 PM] Logan: >notthistimefaggot.mpeg
+[9/19/2015 11:55:50 PM] Logan: >change name
+[9/19/2015 11:55:54 PM] Logan: >change level
+[9/19/2015 11:55:56 PM] Logan: >join again
+[9/19/2015 11:56:05 PM] Logan: >doing the diamond
+[9/19/2015 11:56:07 PM] Logan: >loud
+[9/19/2015 11:56:09 PM] Logan: >fuck yeah
+[9/19/2015 11:56:12 PM] Logan: >join in
+[9/19/2015 11:56:18 PM] Logan: >instantly set everyone on fire
+[9/19/2015 11:56:23 PM] Logan: >he kicks his friend
+[9/19/2015 11:56:26 PM] Logan: >I kek
+[9/19/2015 11:56:28 PM] Logan: >i get kicked
+[9/19/2015 11:56:36 PM] Logan: and thus ends the story of the seriousfag
+[12:52:57 AM] Logan: Whites are so fascinating. It’s just so……amazing to me that they can literally commit numerous genocides, destroy cultures completely, steal land, enslave millions of people, deny these people rights…..they do all of this and more and then go completely unpunished. And to top it off they will benefit from this blood for generations to come and they have the audacity to be upset when it’s brought to their attention. They have the gall to feel as if they are victim when their sins are placed on the table….when they are forced to realize that their people are evil. Like how caught up in your own privilege do you have to be to feel attacked when the same people who were and are being persecuted speak up. When these people demand to be treated equally…you get angry? That’s just….amazing.
+[1:07:33 AM] Logan: YOU HAVE BEEN SPOOKED BY CAT DICK
+SEND THIS TO 666 PEOPLE OR FUCKING DIE
+
+:3
+███▀███▀██▀██▀▀██▀▀██▀▀██▀▀██▀▀██▀██▀ ░▄
+▀▄▀▄▀
+[2:40:55 AM] Logan: skyrim still hasn't fully recovered from the paid mods fiasco
+[2:41:09 AM | Edited 2:41:41 AM] Logan: before paid mods: 98%
+[2:41:22 AM] Logan: after day 1 paid mods: 90%
+[2:41:32 AM] Logan: after day 3 paid mods: 86%
+[2:42:09 AM] Logan: after day 1 death of paid mods: 87%
+[2:42:14 AM] Logan: today: 90%
+[2:44:25 AM] Logan: THE ELDER SCROLLS V: SKYRIM
+
+Minor Spoilers
+
+Sit through a cutscene!
+Get bored!
+Pick your race!
+Pick your face!
+Pick your nose!
+Be a lizard!
+Lizards are cool!
+Almost get executed!
+Be scared of a dragon!
+Get some armor!
+Get some weapons!
+Run in circles!
+Climb a mountain!
+Learn how to yell at people from some old dudes!
+Yell at things!
+Do a bunch of quests!
+Gather more quests you'll never do!
+Accidentally become leader of a guild of thieves!
+Go to college!
+Inherit the college!
+Get some spells!
+Do magic!
+Run out of magic juice!
+Run around some more!
+Run out of stamina!
+Fight dragons!
+Take their souls!
+Use the souls to get more ways to yell at people!
+Level up!
+Improve your skills!
+Make some cool armor!
+Make some cool weapons!
+Enchant that cool armor and weapons!
+Run out of enchanting juice!
+Yell at stuff some more!
+Steal a plate!
+Run from the law!
+Steal a horse!
+Fail to protect that horse!
+Go on foot because your horse is dead!
+Get caught!
+Run out of health!
+Die!
+Respawn where you were twenty minutes ago because you forgot to save!
+Rage quit!
+Come back!
+Decide to actually do the main quest line!
+Consume copious amounts of food mid-battle!
+Climb a mountain by yelling at clouds like the old dudes taught you to!
+Meet a good dragon!
+Learn how to yell at things from him!
+Go through a bunch of stuff to get a scroll!
+Read that scroll!
+Go back in time!
+Learn to yell at things from people in the past!
+Fight a bad dragon!
+Realize it isn't the final boss and that you didn't kill him!
+Stop doing quests!
+Buy a house!
+Buy stuff for your house!
+Run around avoiding the main quest line!
+Gather boatloads of gold!
+Not use any of it!
+Mod the game to oblivion!
+Realize that you've somehow already sank 50+ hours into it!
+Realize you're addicted!
+Keep playing anyway!
+
+10/10
+[2:44:52 AM] Logan: A guy in Solitude told me "You should see me when you get bored stranger".
+
+after 450++ hours in,
+[2:44:57 AM] Logan: still haven't seen him
+[2:45:44 AM] Logan: 1. If a group of terrorists wants to execute you, just ask them if you could have a last wish. If they say yes, tell them this:
+
+2. "Please just let me finish that game that I'm currently playing (Skyrim) completely!"
+
+3. Enjoy living forever!
+[2:45:52 AM] Logan: They removed the paid mods, so it's an instant 11/10 again.
+
+It's okay
+[2:46:31 AM] Logan: ░█▀░░░░░░░░░░░▀▀███████░░░░ 
+░░█▌░░░░░░░░░░░░░░░▀██████░░░ 
+░█▌░░░░░░░░░░░░░░░░███████▌░░ 
+░█░░░░░░░░░░░░░░░░░████████░░ 
+▐▌░░░░░░░░░░░░░░░░░▀██████▌░░ 
+░▌▄███▌░░░░▀████▄░░░░▀████▌░░ 
+▐▀▀▄█▄░▌░░░▄██▄▄▄▀░░░░████▄▄░ 
+▐░▀░░═▐░░░░░░══░░▀░░░░▐▀░▄▀▌▌ 
+▐░░░░░▌░░░░░░░░░░░░░░░▀░▀░░▌▌ 
+▐░░░▄▀░░░▀░▌░░░░░░░░░░░░▌█░▌▌ 
+░▌░░▀▀▄▄▀▀▄▌▌░░░░░░░░░░▐░▀▐▐░ 
+░▌░░▌░▄▄▄▄░░░▌░░░░░░░░▐░░▀▐░░ 
+░█░▐▄██████▄░▐░░░░░░░░█▀▄▄▀░░ 
+░▐░▌▌░░░░░░▀▀▄▐░░░░░░█▌░░░░░░ 
+░░█░░▄▀▀▀▀▄░▄═╝▄░░░▄▀░▌░░░░░░ 
+░░░▌▐░░░░░░▌░▀▀░░▄▀░░▐░░░░░░░ 
+░░░▀▄░░░░░░░░░▄▀▀░░░░█░░░░░░░ 
+░░░▄█▄▄▄▄▄▄▄▀▀░░░░░░░▌▌░░░░░░ 
+░░▄▀▌▀▌░░░░░░░░░░░░░▄▀▀▄░░░░░ 
+▄▀░░▌░▀▄░░░░░░░░░░▄▀░░▌░▀▄░░░ 
+░░░░▌█▄▄▀▄░░░░░░▄▀░░░░▌░░░▌▄▄ 
+░░░▄▐██████▄▄░▄▀░░▄▄▄▄▌░░░░▄░ 
+░░▄▌████████▄▄▄███████▌░░░░░▄ 
+░▄▀░██████████████████▌▀▄░░░░ 
+▀░░░█████▀▀░░░▀███████░░░▀▄░░ 
+░░░░▐█▀░░░▐░░░░░▀████▌░░░░▀▄░ 
+░░░░░░▌░░░▐░░░░▐░░▀▀█░░░░░░░▀ 
+░░░░░░▐░░░░▌░░░▐░░░░░▌░░░░░░░ 
+░╔╗║░╔═╗░═╦═░░░░░╔╗░░╔═╗░╦═╗░ 
+░║║║░║░║░░║░░░░░░╠╩╗░╠═╣░║░║░ 
+░║╚╝░╚═╝░░║░░░░░░╚═╝░║░║░╩═╝░
+[2:48:08 AM] Logan: From the company that brought you horse armor comes paid mods.
+[2:48:59 AM] Logan: Remember, remember the 23'rd of April FOr it was the dark day when payed mods came.
+
+Now since they are gone i'd say GET THIS GAME.
+
+But'll it'll be still a negitive review as a reminder.
+[2:49:10 AM] Logan: all of the negative reviews
+[2:49:18 AM] Logan: A L L  O F  T H E M
+[2:49:22 AM] Logan: are because of paid mods
+[2:49:48 AM] Logan: nobody says anything about the gameplay
+[2:49:51 AM] Logan: just
+[2:49:52 AM] Logan: paid mods
+[2:49:54 AM] Logan: it's over
+[2:49:56 AM] Logan: change the review
+[2:50:10 AM] Logan: 
+Not Recommended
+128.8 hrs on record
+Posted: April 23
+Game - 10/10. Paid mods - 0/10. This can't be tolerated. Not only the whole concept of paid mods is wrong, but Valve is twisting it even more by giving the modders only 25% of the revenue the mod is generating.
+[2:50:14 AM] Logan: april 23
+[2:50:18 AM] Logan: the day valve fucked up
+[2:50:28 AM] Logan: a good majority of these are on april 23
+[2:51:05 AM] Logan: I dissaprove of this for only one reason:
+
+Paid mods.
+[2:51:20 AM] Logan: ONE HUNDRED DOLLAR HORSE PENIS MOD
+[2:51:27 AM] Logan: The biggest DLC scam on Steam now. Don't buy this crap.
+[2:51:34 AM] Logan: Posted: April 25
+Play with 200 mods? Pay 1000€ extra!
+[2:51:37 AM] Logan: alllllllllll
+[2:51:38 AM] Logan: offffffff
+[2:51:40 AM] Logan: themmmmmmmmmm
+[2:51:51 AM] Logan: Posted: April 25
+No.
+[2:51:54 AM] Logan: just no?
+[2:51:57 AM] Logan: k then
+[2:52:07 AM] Logan: I am now blessed with buying an "extra apple" mod for multiple times more money than a real apple.
+Gotta get dem dollarydoos.
+[2:52:19 AM] Logan: 271.6 hrs on record
+Posted: April 25
+Skyrim is a very mediocre game built on a terrible engine.
+
+Now that you have to pay for mods it's straight up crap.
+
+That's it.
+[2:52:29 AM] Logan: mediocre 
+[2:52:34 AM] Logan: 271.6 hrs on record
+[2:52:40 AM] Logan: terrible engine.
+[2:52:44 AM] Logan: 271.6 hrs 
+[2:52:54 AM] Logan: Skyrim?
+
+more like shekel-rim.
+[2:53:13 AM] Logan: I would write a elaborate review for this product, but unfortunately 75% of it was taken.
+[2:53:59 AM] Logan: REASONS FOR NOT SUPPORTING PAID MODS
+It opens up opportunities for theft.
+Gabe Newell stated that it is "impossible" between the community and Valve at this happening. Yet it's already happened, several times in fact, with the first bundle of mods released. What's worse, if modders want to see if their work is being stolen, they must go through the arbitrary paywall.
+[2:56:02 AM] Logan: people would have just gone to fucking nexus anyway
+[2:56:07 AM] Logan: the paid mods were a joke from the start
+[2:56:17 AM] Logan: everyone posted shit along the lines of
+[2:56:26 AM] Logan: "extra apple mod" - $4.99
+[2:56:34 AM] Logan: "nothing" $99.99
+[2:56:52 AM] Logan: "stolen assets" - $26.99
+[3:14:21 AM] Logan: I like to browse steam and see abandoned groups with people still in them
+[4:29:15 PM | Removed 4:35:07 PM] Mack: This message has been removed.
+[4:34:03 PM] *** Call from Mack ***
+[4:35:09 PM] Logan: the gays
+[5:32:22 PM] *** Logan created a group conversation with Christian.
+Show group conversation ***
+[7:46:49 PM] Mack: smurfing is illegal but anime is ok
+[8:09:22 PM] Logan: csgoani.me
+[8:09:58 PM] Mack: This is convincing me. Damn good job. Damn good bloody good damn good job. You're the best woman here.
+[8:34:05 PM] Mack: WHISPERS IN THE AIR
+[8:34:39 PM] Mack: TELL THE TALES
+[8:34:41 PM] Mack: OF A BROTHERS GONE
+[8:42:43 PM] *** Call from Mack ***
+[8:42:51 PM] *** Call ended, duration 00:08 ***
+[8:53:01 PM] Logan: fob system is shit
+[9:10:39 PM] Logan: TeH phantumb payne
+[9:11:02 PM] Logan: a st0ry ab00t macks payen's g00st
+[9:11:23 PM] Logan: PayNe KIlLer
+[9:11:39 PM] Logan: ǈ
+[9:11:41 PM] Logan: Lj
+[9:11:43 PM] Logan: ǈ
+[9:11:48 PM] Logan: Lj
+[9:11:50 PM] Logan: ǈ
+[9:13:06 PM] *** Call to Mack, busy.
+Send video message ***
+
+
+
+
+
+
+
+
+
 
 
 
