@@ -1,5 +1,5 @@
 # HEY THERE
 2 People,
-53,264 Lines,
-492 Days worth of messages,
+53,578 Lines,
+493 Days worth of messages,
 And a whole lot of spam.
